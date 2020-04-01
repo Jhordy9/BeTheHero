@@ -1,0 +1,14 @@
+/node_modules
+
+test.sqlite
+
+.DS_Store
+.env
+.env.local
+.env.local.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

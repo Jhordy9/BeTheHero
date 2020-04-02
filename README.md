@@ -6,8 +6,9 @@
   </p>
 
   <img src="./frontend/src/assets/betheherogh.jpg" width='900' />
+  
 
-# Development setup
+# Desenvolvimento
 
 ### Backend 
 

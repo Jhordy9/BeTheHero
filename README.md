@@ -11,15 +11,17 @@
 
 ### Backend 
 
-  - NodeJS e ExpressJS.
+  - Linguagem e Framework: NodeJS e ExpressJS.
+  - Banco de dados: SQlite
+  - Query Builder: Knex
 
 ### Frontend
 
-  - ReactJS.
+  - Linguagem: ReactJS.
   
 ### Mobile
 
-  - React Native
+  - Linguagem: React Native
 
 ### Tests
   - Teste de rotas no backend: Insomnia.

@@ -2,7 +2,7 @@
   <img src="mobile/src/assets/logo@3x.png" />
   
   <p align="center">
-  Aplicação criada durante a Semana OmmiStack da Rocketseat.
+  Aplicação criada durante a Semana OmniStack da Rocketseat.
   </p>
 
   <img src="./frontend/src/assets/betheherogh.jpg" width='900' />

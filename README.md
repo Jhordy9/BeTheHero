@@ -5,7 +5,7 @@
   Aplicação criada durante a Semana OmmiStack da Rocketseat.
   </p>
 
-  <img src="./frontend/src/assets/betheherogh.jpg" width='200' />
+  <img src="./frontend/src/assets/betheherogh.jpg" width='900' />
 
 # Development setup
 

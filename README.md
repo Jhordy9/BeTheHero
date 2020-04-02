@@ -23,4 +23,4 @@
 
 ### Tests
   - Teste de rotas no backend: Insomnia.
-  - Testes integrados: Jest e Superjest.
+  - Testes integrados: Jest e Supertest.

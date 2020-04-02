@@ -10,11 +10,19 @@
 
 # Desenvolvimento
 
+### Funcionalidades 
+
+  - Criação de ONGs.
+  - Criar e deletar casos.
+  - Login da ONG por ID.
+  - Listagem de casos.
+  - Envio de mensagem para contato com a ONG por e-mail e WhatsApp.
+
 ### Backend 
 
   - Linguagem e Framework: NodeJS e ExpressJS.
-  - Banco de dados: SQlite
-  - Query Builder: Knex
+  - Banco de dados: SQlite.
+  - Query Builder: Knex.
 
 ### Frontend
 
@@ -22,7 +30,7 @@
   
 ### Mobile
 
-  - Linguagem: React Native
+  - Linguagem: React Native.
 
 ### Tests
   - Teste de rotas no backend: Insomnia.
